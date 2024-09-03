@@ -25,7 +25,7 @@ SECRET_KEY = 'ti-+m17or1dkc66^^oiw2xs^agapjoc@q6_7fsh1!olw95cf()'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','pythonanywhere.com','back4app.com']
 
 
 # Application definition
